@@ -1,0 +1,128 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=GD, L=SZ, O=Lenovo Internal, OU=CDL, CN=Vantage Internal Test RootCA/emailAddress=wuwh3@lenovo.com
+        Validity
+            Not Before: Nov  2 08:41:18 2019 GMT
+            Not After : Oct 31 08:41:18 2027 GMT
+        Subject: C=CN, ST=GD, O=Lenovo Internal, OU=CDL, CN=Vantage Internal Test IntermediateCA/emailAddress=wuwh3@lenovo.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (4096 bit)
+                Modulus:
+                    00:da:52:7e:08:a8:87:4b:b2:9c:f6:ee:16:d8:12:
+                    52:91:0d:76:31:85:60:32:f7:51:cf:8a:21:ec:87:
+                    2a:5a:f5:83:2d:0f:7c:a3:3d:27:39:8a:40:4b:5c:
+                    b9:c6:aa:5d:c8:ff:55:55:ed:70:46:60:44:a5:0e:
+                    06:f6:98:51:2e:2f:cd:65:bb:e9:06:e4:73:5b:38:
+                    cc:1c:18:9a:ad:49:ba:bd:4d:7a:dd:8f:dc:7c:89:
+                    ba:92:21:f0:5c:76:cd:a0:fd:ca:32:aa:e3:21:24:
+                    a9:5a:00:c1:43:44:20:c6:b7:37:6b:39:e5:c5:77:
+                    fd:0d:7c:42:d0:3e:16:9b:fa:78:b9:b5:7b:2a:06:
+                    dc:79:30:3a:ba:a4:39:5e:dc:7a:75:cc:79:1a:ba:
+                    84:4b:74:22:01:71:e4:f2:58:78:e2:bf:a9:c4:63:
+                    15:58:d0:71:24:4d:e3:38:b0:aa:69:c7:e2:3e:84:
+                    c5:a1:f8:84:7d:c8:00:7a:5e:49:1e:9b:36:d9:65:
+                    45:a1:0f:50:9a:35:d6:ae:20:52:1b:16:eb:8b:51:
+                    6f:9a:71:fe:ba:c4:81:9b:7e:e7:be:1a:63:bd:60:
+                    16:86:eb:a3:61:19:da:4e:9a:78:93:d3:c0:94:e5:
+                    5e:42:75:a6:b6:b3:79:43:41:46:b8:05:9b:e3:38:
+                    3b:3c:e3:f0:99:ea:4d:76:36:a8:f4:ed:0a:0b:38:
+                    d2:52:55:f4:b7:9a:5e:c5:e5:00:26:2c:61:0c:78:
+                    77:eb:22:80:c1:a3:70:91:46:34:14:c9:e2:7e:46:
+                    bd:83:e7:3e:2d:dc:77:34:65:aa:42:ef:a0:4f:a6:
+                    89:74:7d:f9:88:a7:e1:7b:ce:98:4f:7c:2b:4d:c6:
+                    3a:a5:9e:ac:51:d6:e0:e9:86:14:c7:ed:ce:4b:e0:
+                    8e:ee:0b:66:8a:54:f5:6f:c6:4c:a3:bc:1e:11:af:
+                    f0:24:1e:b9:38:91:10:fa:17:8d:b0:84:65:7f:39:
+                    f2:b7:28:64:c8:77:d3:01:65:a5:73:14:d7:25:bc:
+                    4b:5f:1d:a3:13:63:f7:a9:bf:6d:cc:b4:78:9f:a1:
+                    57:13:c9:05:e2:95:ac:82:1e:29:58:5f:79:61:1c:
+                    60:15:57:eb:0e:68:a5:59:82:25:a3:43:81:b9:c4:
+                    97:19:7d:1e:0e:8f:1e:55:eb:7e:dd:70:da:f7:e3:
+                    2a:23:4c:da:d1:a6:f6:ec:b3:03:a3:f8:98:67:4a:
+                    71:2a:2f:48:37:d0:e9:b3:3a:65:39:c4:e8:02:61:
+                    54:78:42:b9:11:fc:43:30:85:bf:a5:9b:f8:64:25:
+                    6c:ac:33:dd:60:c9:64:2d:6e:ec:2c:ad:71:2a:d0:
+                    de:bd:59
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                9D:D2:B0:FB:21:4B:E5:43:6F:55:5E:7F:62:89:A9:1F:9D:BB:FA:2C
+            X509v3 Authority Key Identifier: 
+                keyid:E5:AF:BC:96:5A:5E:D5:88:44:76:FF:94:BA:35:8B:7A:7A:E4:84:42
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Alternative Name: 
+                DNS:filedownload.lenovo.com
+            X509v3 Issuer Alternative Name: 
+                DNS:filedownload.lenovo.com
+    Signature Algorithm: sha256WithRSAEncryption
+         a8:b6:34:52:ee:f7:de:d1:e4:cd:e3:a6:87:53:dd:9b:33:d9:
+         fb:ee:db:2c:6d:e0:d7:bf:95:e8:0f:61:b8:9d:63:e8:d0:97:
+         1a:b3:40:eb:33:d2:ea:b1:18:44:96:4a:5e:b6:f9:63:70:2f:
+         d6:45:70:7e:fc:bb:90:88:1c:43:4f:d1:8e:12:18:92:e7:ad:
+         bd:15:5a:48:83:61:30:58:5c:74:2a:3d:aa:dd:a7:3c:4a:a4:
+         de:93:15:a0:ad:65:cb:a1:a7:37:19:6d:6f:ce:6e:3b:6f:c1:
+         7a:1d:e0:25:d0:75:3c:59:70:ec:f4:71:eb:6e:7b:a9:84:09:
+         b7:5a:93:3b:bd:03:e2:4a:e2:6d:9d:93:39:a2:46:2f:b7:9a:
+         49:1e:a3:ca:2d:34:aa:f6:8f:c6:db:5a:9a:f5:a1:9d:87:d1:
+         9f:80:34:c6:19:06:bf:82:fc:5d:12:5f:ff:71:b9:e3:63:4e:
+         f3:00:3f:07:ac:76:da:60:61:76:8f:a5:03:36:fa:4a:74:f9:
+         3c:d2:82:0f:ca:7d:10:93:4b:a8:94:d1:46:c3:65:d5:5c:a7:
+         4d:31:1a:75:56:bf:84:b0:88:df:5c:b9:08:71:e8:af:db:0c:
+         ef:cc:92:3d:a9:5b:e6:bb:5b:7e:79:d7:2c:90:24:eb:c4:23:
+         cf:a8:0f:0e:ae:ca:bb:af:85:08:25:da:83:36:47:bd:a7:cc:
+         2a:52:56:73:88:d0:1c:89:54:02:9a:9c:64:21:02:d0:d0:e2:
+         bd:42:12:45:9d:4e:82:d1:68:2d:0e:16:4d:dd:76:40:ea:ce:
+         64:2e:7b:07:2a:49:61:6d:bb:2a:37:e6:c7:ff:83:69:a5:6f:
+         88:39:6b:25:84:e0:73:a2:98:0a:c9:5f:e9:27:1d:55:ff:26:
+         c9:22:57:3c:27:7e:8c:e6:b5:5e:4c:ae:dd:5c:25:b3:ad:2a:
+         1c:7f:ec:19:d6:b1:18:34:ac:6b:42:5e:ea:cf:eb:d5:f8:b1:
+         dd:f1:09:8f:e0:9b:da:43:a1:84:cb:d1:0b:3e:c7:4d:4a:ae:
+         b3:c0:eb:79:75:51:a0:cf:9c:3d:f9:a8:7d:a5:ab:fe:2c:bf:
+         fa:e4:15:74:0b:f4:fb:e2:83:01:c2:b9:e6:f6:2c:72:60:07:
+         69:b8:e0:99:1a:a7:28:74:7f:bc:9d:f0:34:03:89:3f:4f:29:
+         ed:4e:82:f8:21:18:65:51:88:a3:b1:b4:44:90:11:70:f6:9b:
+         2d:df:aa:11:7d:78:77:0e:0f:9f:26:98:bb:90:13:9e:e8:b5:
+         5c:50:60:dc:56:6f:a8:0e:d2:96:38:44:83:de:64:5e:c1:d9:
+         2c:fd:8a:8c:05:65:67:db
+-----BEGIN CERTIFICATE-----
+MIIGQzCCBCugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBlzELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgMAkdEMQswCQYDVQQHDAJTWjEYMBYGA1UECgwPTGVub3ZvIEludGVy
+bmFsMQwwCgYDVQQLDANDREwxJTAjBgNVBAMMHFZhbnRhZ2UgSW50ZXJuYWwgVGVz
+dCBSb290Q0ExHzAdBgkqhkiG9w0BCQEWEHd1d2gzQGxlbm92by5jb20wHhcNMTkx
+MTAyMDg0MTE4WhcNMjcxMDMxMDg0MTE4WjCBkjELMAkGA1UEBhMCQ04xCzAJBgNV
+BAgMAkdEMRgwFgYDVQQKDA9MZW5vdm8gSW50ZXJuYWwxDDAKBgNVBAsMA0NETDEt
+MCsGA1UEAwwkVmFudGFnZSBJbnRlcm5hbCBUZXN0IEludGVybWVkaWF0ZUNBMR8w
+HQYJKoZIhvcNAQkBFhB3dXdoM0BsZW5vdm8uY29tMIICIjANBgkqhkiG9w0BAQEF
+AAOCAg8AMIICCgKCAgEA2lJ+CKiHS7Kc9u4W2BJSkQ12MYVgMvdRz4oh7IcqWvWD
+LQ98oz0nOYpAS1y5xqpdyP9VVe1wRmBEpQ4G9phRLi/NZbvpBuRzWzjMHBiarUm6
+vU163Y/cfIm6kiHwXHbNoP3KMqrjISSpWgDBQ0Qgxrc3aznlxXf9DXxC0D4Wm/p4
+ubV7KgbceTA6uqQ5Xtx6dcx5GrqES3QiAXHk8lh44r+pxGMVWNBxJE3jOLCqacfi
+PoTFofiEfcgAel5JHps22WVFoQ9QmjXWriBSGxbri1FvmnH+usSBm37nvhpjvWAW
+huujYRnaTpp4k9PAlOVeQnWmtrN5Q0FGuAWb4zg7POPwmepNdjao9O0KCzjSUlX0
+t5pexeUAJixhDHh36yKAwaNwkUY0FMnifka9g+c+Ldx3NGWqQu+gT6aJdH35iKfh
+e86YT3wrTcY6pZ6sUdbg6YYUx+3OS+CO7gtmilT1b8ZMo7weEa/wJB65OJEQ+heN
+sIRlfznytyhkyHfTAWWlcxTXJbxLXx2jE2P3qb9tzLR4n6FXE8kF4pWsgh4pWF95
+YRxgFVfrDmilWYIlo0OBucSXGX0eDo8eVet+3XDa9+MqI0za0ab27LMDo/iYZ0px
+Ki9IN9DpszplOcToAmFUeEK5EfxDMIW/pZv4ZCVsrDPdYMlkLW7sLK1xKtDevVkC
+AwEAAaOBnDCBmTAdBgNVHQ4EFgQUndKw+yFL5UNvVV5/YompH527+iwwHwYDVR0j
+BBgwFoAU5a+8llpe1YhEdv+UujWLenrkhEIwDwYDVR0TAQH/BAUwAwEB/zAiBgNV
+HREEGzAZghdmaWxlZG93bmxvYWQubGVub3ZvLmNvbTAiBgNVHRIEGzAZghdmaWxl
+ZG93bmxvYWQubGVub3ZvLmNvbTANBgkqhkiG9w0BAQsFAAOCAgEAqLY0Uu733tHk
+zeOmh1PdmzPZ++7bLG3g17+V6A9huJ1j6NCXGrNA6zPS6rEYRJZKXrb5Y3Av1kVw
+fvy7kIgcQ0/RjhIYkuetvRVaSINhMFhcdCo9qt2nPEqk3pMVoK1ly6GnNxltb85u
+O2/Beh3gJdB1PFlw7PRx6257qYQJt1qTO70D4kribZ2TOaJGL7eaSR6jyi00qvaP
+xttamvWhnYfRn4A0xhkGv4L8XRJf/3G542NO8wA/B6x22mBhdo+lAzb6SnT5PNKC
+D8p9EJNLqJTRRsNl1VynTTEadVa/hLCI31y5CHHor9sM78ySPalb5rtbfnnXLJAk
+68Qjz6gPDq7Ku6+FCCXagzZHvafMKlJWc4jQHIlUApqcZCEC0NDivUISRZ1OgtFo
+LQ4WTd12QOrOZC57BypJYW27Kjfmx/+DaaVviDlrJYTgc6KYCslf6ScdVf8mySJX
+PCd+jOa1Xkyu3Vwls60qHH/sGdaxGDSsa0Je6s/r1fix3fEJj+Cb2kOhhMvRCz7H
+TUqus8DreXVRoM+cPfmofaWr/iy/+uQVdAv0++KDAcK55vYscmAHabjgmRqnKHR/
+vJ3wNAOJP08p7U6C+CEYZVGIo7G0RJARcPabLd+qEX14dw4PnyaYu5ATnui1XFBg
+3FZvqA7SljhEg95kXsHZLP2KjAVlZ9s=
+-----END CERTIFICATE-----
